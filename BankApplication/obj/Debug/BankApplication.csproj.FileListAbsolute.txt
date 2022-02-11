@@ -1,0 +1,6 @@
+C:\Users\mlaza\Desktop\CIS297\cis297-w2022-assignment3-template-plazaros\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\mlaza\Desktop\CIS297\cis297-w2022-assignment3-template-plazaros\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\mlaza\Desktop\CIS297\cis297-w2022-assignment3-template-plazaros\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\mlaza\Desktop\CIS297\cis297-w2022-assignment3-template-plazaros\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\mlaza\Desktop\CIS297\cis297-w2022-assignment3-template-plazaros\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\mlaza\Desktop\CIS297\cis297-w2022-assignment3-template-plazaros\BankApplication\obj\Debug\BankApplication.pdb
